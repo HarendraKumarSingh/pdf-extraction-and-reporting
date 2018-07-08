@@ -3,7 +3,7 @@ Extract relevant data from PDF document and use it for reporting or prediction. 
 
 Crawl web to extract relevant data from PDF report (<b>USDA livestock, poultry & grain market news</b> report, sample as below).</br>
 Download the report.</br>
-Extract the highlighted red infomation - which is <b>Ethanol price ($/gal) in Iowa city</b>.</br>
+Extract the highlighted red infomation - past week <b>Ethanol price ($/gal) in Iowa city</b>.</br>
 Extract data for past multiple weeks and use it for future Ethanol price ($/gal) prediction in Iowa city.</br></br>
 
 For latest report, visit: https://www.ams.usda.gov/mnreports/lswagenergy.pdf.</br>
